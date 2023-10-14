@@ -5,13 +5,16 @@
 
 
 
-        this is the practise version
+        
+<html>
+<head>
+<body>
+<hi> ok, GO ahead with Git Learning at the earliest .  Coding week, we plan for a Demo.
+</body>
+</head>
+</html>
 
-    Git Commands I Learnt today:
-
-1) git init 
-2) git add
-3) git commit 
+>>>>>>> 2858e28cbe0c56a034051934c485ffeef6f76c54
 
 
 
