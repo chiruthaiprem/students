@@ -7,3 +7,13 @@
 
         this is the practise version
 
+    Git Commands I Learnt today:
+
+1) git init 
+2) git add
+3) git commit 
+
+
+
+
+
