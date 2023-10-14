@@ -7,3 +7,16 @@
 
         this is the practise version
 
+<html>
+<head>
+<body>
+<hi> ok, GO ahead with Git Learning at the earliest .  Coding week, we plan for a Demo.
+</body>
+</head>
+</html>
+
+
+
+
+
+
