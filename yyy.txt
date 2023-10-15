@@ -1,0 +1,17 @@
+
+
+     This is yyy folder 
+
+  java program
+   
+   public class yyy {
+
+       public static void main(String args[]) {
+  
+        int a=10, b=57, c;
+
+         c = a+b;
+
+   System.out.println( " C value is " + c );
+
+
