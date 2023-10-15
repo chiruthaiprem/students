@@ -14,12 +14,7 @@ this code write by team leader
 
 
 
-   sir, today learn some commends
-
-      -What is get init ?
-      - What is get add ?
-      - What is get commit ?
-
+   
 
 
 
