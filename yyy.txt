@@ -15,3 +15,12 @@
    System.out.println( " C value is " + c );
 
 
+ok,  next Learn oops concept
+
+   - What is class
+   - What is constructer
+   - What is object
+   -  How to do object creation
+     
+
+
