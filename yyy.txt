@@ -15,18 +15,13 @@
    System.out.println( " C value is " + c );
 
 
-  sir,  prem  
 
-       full stack devloper
+prem,please check the updates ( manager )
 
-        java 
-        python
-        hit 
-        gitHub
+   html
+   css
+   javascript
 
-      and zoho
-
- 
 
 
 
