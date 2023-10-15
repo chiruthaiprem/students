@@ -4,3 +4,10 @@
      This is sms 1 version 
   please need to practice 
 
+
+     operaters
+
+   print (5>10)
+   city1 = 'Chennai'
+   print ('Chennai' is city1)
+   print ('pqrs'> abcde')
