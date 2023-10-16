@@ -5,5 +5,18 @@
    public static void main (String args []){
    
      System.out.println(" hello world ");
+
+  second time try 
+
+
+ data type 
+
+- byte 
+- int 
+- char
+- float
+- double
+- boolean
+
 	 
 	 
